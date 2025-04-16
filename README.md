@@ -42,5 +42,6 @@
 [![Email](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:vipullokhande1@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/7744959632)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/vipullokhande)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/mrvipul21)
 
 ### 💡 Let's Build Something Cool Together!
