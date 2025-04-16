@@ -11,7 +11,6 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="js" width="100" height="100"/>
-  <div width:10/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="react" width="100" height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="firebase" width="100" height="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" alt="firebase" width="100" height="100"/>
@@ -25,7 +24,7 @@
 
 ### 📈 GitHub Stats:
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipullokhande&show_icons=true&theme=radical)
+![Vipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=vipullokhande&show_icons=true&theme=radical)
 
 ---
 
