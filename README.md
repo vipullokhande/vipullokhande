@@ -40,6 +40,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vipul-lokhande-16b379229)
 [![Email](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:vipullokhande1@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+7744959632-black?style=flat&logo=phone&logoColor=white)](tel:+7744959632)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/7744959632)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/vipullokhande)
 
 ### 💡 Let's Build Something Cool Together!
